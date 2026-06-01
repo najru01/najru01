@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Najrul Ansari</h1>
 
-<h3 align="center">Full-Stack Developer | IT Consultant | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   I am a software developer specializing in architecting and building modern, scalable applications. From crafting sleek UI/UX to developing robust backend architectures and AI-driven solutions, I love turning complex problems into elegant software.
@@ -44,7 +44,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Let's connect and build something awesome!</i>
-</p>
